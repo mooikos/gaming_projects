@@ -1,0 +1,10 @@
+# Local portable git & SSH credentials (never commit!)
+.ssh/
+git/
+
+# Independent project Git repositories (managed separately in their own folders)
+gaming_notes_*/
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
